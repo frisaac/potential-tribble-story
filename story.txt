@@ -1,2 +1,8 @@
 Faith was a girl at UW-Madison. She really wanted to pass her CS 400 class so she made a txt 
 story as per Debra's instructions!
+
+Then Professor Deb made us do the dreaded RBT assignment. After spending countless hours ( > 20) and many late nights working on it, the due date finally came. However, due to the unexpectedly hard 
+algorithm we were to implement for an RBT insert, many peoole struggled to finish it properly. 
+
+Gradescope ran, we cried, canvas simply laughed. All we can hope is Professor Deppeler takes mercy on our poor souls
+
