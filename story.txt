@@ -6,3 +6,6 @@ algorithm we were to implement for an RBT insert, many peoole struggled to finis
 
 Gradescope ran, we cried, canvas simply laughed. All we can hope is Professor Deppeler takes mercy on our poor souls
 
+Alas, the students could relax after putting blood sweat and tears into the project. However,
+exam season was still in full swing; students can't seem to catch a breath.
+The only good thing about all of these exams is that spring break is closely approaching.
